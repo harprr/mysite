@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![hi there](selfie.jpg)
+![hi there](selfie2.jpg)
 
 # Harper
 
